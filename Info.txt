@@ -1,0 +1,15 @@
+Data Collection:Gathered a comprehensive dataset of CT scan images featuring kidney stones, encompassing both normal and abnormal cases with varied sizes and types.
+
+Preprocessing: Developed robust preprocessing techniques to optimize image quality, including resizing, normalization, and augmentation for enhanced model generalization.
+
+Feature Extraction:Implemented advanced feature extraction methods utilizing the Xception model for image extraction and custom CNN architectures tailored to kidney stone attributes.
+
+Model Development:Created machine learning and deep learning models (e.g., custom CNN architectures) for automated kidney stone detection and segmentation.
+Designed and trained models specifically for classification and segmentation tasks, incorporating fine-tuning as necessary.
+
+Evaluation and Metrics:Evaluated model performance metrics including accuracy, precision to quantify the effectiveness of kidney stone detection. (Note: recall, and F1-score were not calculated in this project.)
+
+Integration and Deployment:Prepared the project for seamless integration into a GitHub repository, focusing on comprehensive documentation, well-organized code structure, and considerations for future deployment scenarios.
+
+Additional Features:Implemented a Treatment Recommendation system based on detected kidney stone attributes.
+Utilized Streamlit as the backend for interactive visualization and user interface.
